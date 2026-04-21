@@ -1,0 +1,15 @@
+{
+  "users": {
+    "1d62e0d2-5d11-468c-a1f8-d2de92c28b1b": {
+      "id": "1d62e0d2-5d11-468c-a1f8-d2de92c28b1b",
+      "email": "test-1776745735311@example.com",
+      "name": "Test User",
+      "passwordHash": "$2a$12$3V1L15cReH6bRkLB9w3OMO.ZMLnr.JSJtJFil1VWqzAzL2SRJAtKy",
+      "createdAt": "2026-04-21T04:28:55.779Z"
+    }
+  },
+  "teams": {},
+  "boards": {},
+  "cards": {},
+  "actionItems": {}
+}
